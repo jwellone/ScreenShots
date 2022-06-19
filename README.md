@@ -7,11 +7,11 @@
 
 
 # ScreenShots
-Can take screenshots.
-- Selected window.
-- Whole Unity Editor.
+Take any screenshot of the selected View or Window on Unity Editor.
 - Game View.
 - Scene View.
+- Selected window.
+- Entire Unity Editor.
 
 This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
